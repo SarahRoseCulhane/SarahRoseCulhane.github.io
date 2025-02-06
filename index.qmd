@@ -1,5 +1,5 @@
 ---
-title: "SarahRoseCulhane.github.io"
+title: "Sarah Culhane"
 ---
 
 This is a Quarto website.
