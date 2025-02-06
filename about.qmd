@@ -2,8 +2,6 @@
 title: "About"
 ---
 
-About this site
+I am an undergraduate student at Colorado State University studying ecosystem science and sustainability. I grew up in the beautiful state of Arkansas exploring nature, which helped to nurture my love and appreciation for the outdoors.
 
-```{r}
-1 + 1
-```
+My technical skills may be green, but my desire for helping nature thrive is strong.
