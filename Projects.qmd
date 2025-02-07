@@ -1,5 +1,5 @@
 ---
-title: "Projects"
+title: "CSU Projects"
 ---
 
-stay tuned! My favorite projects tbd.
+In the spring of 2025 I took a Quantitative Reasoning Class based in R. The first assignment was building a website using github (the one you're on right now!)
