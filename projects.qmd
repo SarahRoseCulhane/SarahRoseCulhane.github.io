@@ -1,5 +1,5 @@
 ---
-title: "projects"
+title: "My Favorite Projects"
 ---
 
 stay tuned! Projects tbd.
