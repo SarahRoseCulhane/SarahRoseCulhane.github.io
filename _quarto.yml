@@ -9,6 +9,7 @@ website:
         text: Home
       - about.qmd
       - projects.qmd
+      - Resume.qmd
 
 format:
   html:
