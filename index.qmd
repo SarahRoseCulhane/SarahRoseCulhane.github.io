@@ -7,6 +7,9 @@ about:
   links: 
     - text: Linked In
       href: https://www.linkedin.com/in/sarah-culhane-794b60172/
+    - icon: github
+      text: Github
+      href: https://github.com/SarahRoseCulhane
 ---
 
 Hello and welcome to my webpage! :)
