@@ -13,7 +13,7 @@ about:
       href: https://github.com/SarahRoseCulhane
     - icon: envelope
       text: Email
-      href: sculhane@colostate.edu
+      href: mailto:sculhane@colostate.edu
 ---
 
 Hello and welcome to my webpage! :)
