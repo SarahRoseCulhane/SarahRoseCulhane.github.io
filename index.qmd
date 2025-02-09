@@ -5,9 +5,11 @@ about:
   template: jolla
   image: "C:\Users\sarah\Downloads\profilepicnature.jpg"
   links: 
-    - text: Linked In
+    - icon: Linkedin
+      text: LinkedIn
       href: https://www.linkedin.com/in/sarah-culhane-794b60172/
-    - text: Github
+    - icon: github
+      text: Github
       href: https://github.com/SarahRoseCulhane
 ---
 
