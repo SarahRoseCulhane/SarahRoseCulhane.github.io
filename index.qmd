@@ -1,9 +1,9 @@
 ---
 title: "Sarah Culhane"
-image: "C:\Users\sarah\Downloads\IMG_4387.jpeg"
 toc: false
 about:
   template: jolla
+  image: IMG_4387.jpeg
   image-shape: round
   image-width: 17em
 ---
