@@ -3,7 +3,7 @@ title: "Sarah Culhane"
 toc: false
 about:
   template: jolla
-  image: IMG_4387.jpeg
+  image: profileimage.jpeg
   links: 
     - text: Linked In
       href: https://www.linkedin.com/in/sarah-culhane-794b60172/
