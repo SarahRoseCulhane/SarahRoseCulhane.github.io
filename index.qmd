@@ -1,6 +1,6 @@
 ---
 title: "Sarah Culhane"
-image: "C:\Users\sarah\Downloads\IMG_4387.JPG"
+image: "C:\Users\sarah\Downloads\IMG_4387.jpeg"
 toc: false
 about:
   template: jolla
