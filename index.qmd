@@ -1,18 +1,11 @@
 ---
 title: "Sarah Culhane"
-image: IMG_4387
+image: "C:\Users\sarah\Downloads\IMG_4387.JPG"
 toc: false
 about:
   template: jolla
   image-shape: round
   image-width: 17em
-  links:
-    -text: LinkedIn
-    href: https://www.linkedin.com/in/sarah-culhane-794b60172/
-    -text: Github
-    href: https://github.com/SarahRoseCulhane
-    -text: Email
-    href: sculhane@colostat.edu
 ---
 
 Hello and welcome to my webpage! :)
