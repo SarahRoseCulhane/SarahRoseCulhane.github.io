@@ -3,7 +3,7 @@ title: "Sarah Culhane"
 toc: false
 about:
   template: jolla
-  image: "C:\Users\sarah\Downloads\profilepicnature.jpg"
+  image: profileimage.jpeg
   links: 
     - icon: linkedin
       text: LinkedIn
