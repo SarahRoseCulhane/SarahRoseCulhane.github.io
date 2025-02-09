@@ -11,6 +11,9 @@ about:
     - icon: github
       text: Github
       href: https://github.com/SarahRoseCulhane
+    - icon: envelope
+      text: Email
+      href: sculhane@colostate.edu
 ---
 
 Hello and welcome to my webpage! :)
