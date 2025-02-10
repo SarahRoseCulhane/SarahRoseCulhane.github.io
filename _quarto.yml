@@ -15,7 +15,7 @@ website:
 format:
   html:
     theme: Yeti
-    css: styles.css
+    css: bootstrap.min.css
     toc: true
 
 editor: visual
