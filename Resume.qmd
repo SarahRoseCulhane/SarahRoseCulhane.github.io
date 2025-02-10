@@ -1,5 +1,8 @@
 ---
 title: "Resume"
+toc: false
+about: 
+ links: 
+    - text: Resume
+    - href: "./images/SarahCulhaneResume.jpg"
 ---
-
-![](images/SarahCulhaneResume.jpg){fig-align="center"}
