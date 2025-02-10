@@ -7,3 +7,5 @@ about:
    - text: Resume
    - href: "./images/SarahCulhaneResume.jpg"
 ---
+
+To check out my current resume, please click the link below!
