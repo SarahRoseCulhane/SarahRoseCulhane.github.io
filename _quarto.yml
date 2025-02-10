@@ -15,7 +15,7 @@ website:
 format:
   html:
     theme: "Yeti"
-    css: bootstrap.min.css
+    css: styles.css
     toc: true
 
 editor: visual
