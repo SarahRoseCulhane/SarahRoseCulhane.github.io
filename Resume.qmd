@@ -2,6 +2,7 @@
 title: "Resume"
 toc: false
 about: 
+ template: jolla
  links:
    - text: Resume
      href: "./images/SarahCulhaneResume.pdf"
