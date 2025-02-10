@@ -1,3 +1,8 @@
 ---
 title: "Resume"
+links:
+  - text: Resume
+    href: "C:\Users\sarah\Downloads\SarahCulhaneResume.pdf"
 ---
+
+For a PDF of my current resume, please click the link below.
