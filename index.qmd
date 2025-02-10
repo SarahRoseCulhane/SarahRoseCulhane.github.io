@@ -3,7 +3,7 @@ title: "Sarah Culhane"
 toc: false
 about:
   template: jolla
-  image: "Users\sarah\Documents\github\SarahRoseCulhane.github.io\images\profileimage.jpeg"
+  image: "c://Users/sarah/Documents/github/SarahRoseCulhane.github.io/images/profileimage.jpeg"
   links: 
     - icon: linkedin
       text: LinkedIn
