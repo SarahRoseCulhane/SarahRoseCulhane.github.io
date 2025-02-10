@@ -1,8 +1,9 @@
 ---
 title: "Resume"
 toc: false
-about: 
- links: 
-    - text: Resume
-    - href: "./images/SarahCulhaneResume.jpg"
+about:
+ template: jolla
+ links:
+   - text: Resume
+   - href: "./images/SarahCulhaneResume.jpg"
 ---
