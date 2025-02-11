@@ -16,7 +16,7 @@ about:
       href: mailto:sculhane@colostate.edu
 page-footer:
   left: Copyright 2025, Sarah Culhane
-  right: {{< fa heart title="a heart" >}}, [{{< fa brands github title="GitHub octocat logo" >}}](https://sarahroseculhane.github.io/){target=_blank}, [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=_blank} and [Quarto](https://quarto.org/){target=_blank}
+  right: This website is built with {{< fa heart title="a heart" >}}
 ---
 
 Hello and welcome to my webpage! :)
