@@ -17,8 +17,7 @@ website:
     
 format:
   html:
-    theme: "Yeti"
-    css: styles.css
+    theme: styles.scss
     toc: true
 
 editor: visual
