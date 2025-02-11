@@ -10,9 +10,9 @@ website:
       - about.qmd
       - Resume.qmd
       - projects.qmd
-page-footer: 
- left: Copyright Sarah Culhane, 2025
- right: This website was made with love
+ page-footer: 
+  left: Copyright Sarah Culhane, 2025
+  right: This website was made with love
     
     
 format:
