@@ -11,8 +11,9 @@ website:
       - Resume.qmd
       - projects.qmd
  page-footer: 
-  left: Copyright Sarah Culhane, 2025
-  right: This website was made with love
+   background: 'dark'
+   left: Copyright Sarah Culhane, 2025
+   right: This website was made with love
     
     
 format:
