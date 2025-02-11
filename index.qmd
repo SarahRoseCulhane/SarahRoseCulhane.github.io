@@ -14,10 +14,6 @@ about:
     - icon: envelope
       text: Email
       href: mailto:sculhane@colostate.edu
-page-footer:
-  background: 'dark'
-  left: Copyright 2025, Sarah Culhane
-  right: This website is built with love
 ---
 
 Hello and welcome to my webpage! :)
