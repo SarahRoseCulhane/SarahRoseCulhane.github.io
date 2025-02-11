@@ -18,8 +18,8 @@ format:
   html:
     theme:
      - Yeti
-     - styles.scss
-    toc: true
+     - "./styles.scss"
+     toc: true
 
 editor: visual
 
