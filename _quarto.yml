@@ -16,7 +16,9 @@ website:
        
 format:
   html:
-    theme: "./styles.scss"
+    theme:
+     - Yeti
+     - styles.scss
     toc: true
 
 editor: visual
