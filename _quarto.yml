@@ -10,8 +10,8 @@ website:
       - about.qmd
       - Resume.qmd
       - projects.qmd
-  footer: 
-   left: "Copyright 2025, Sarah Culhane"
+  page-footer: 
+    left: "Copyright 2025, Sarah Culhane"
        
 format:
   html:
