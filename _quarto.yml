@@ -19,7 +19,6 @@ format:
     theme:
      - Yeti
      - styles.scss
-     toc: true
 
 editor: visual
 
