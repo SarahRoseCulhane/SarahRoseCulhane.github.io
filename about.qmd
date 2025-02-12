@@ -2,6 +2,6 @@
 title: "About"
 ---
 
-I am a student at Colorado State University pursuing a Bachelor's of science in Ecosystem Science and Sustainability. I grew up in the beautiful state of Arkansas exploring nature, which helped to nurture my love and appreciation for the outdoors.
+I am a student at Colorado State University pursuing a Bachelor's of science in Ecosystem Science and Sustainability. I grew up in the beautiful state of Arkansas exploring nature, which helped to grow and nurture my love and appreciation for the outdoors.
 
 My technical skills may be green, but my desire for helping nature thrive is strong.
