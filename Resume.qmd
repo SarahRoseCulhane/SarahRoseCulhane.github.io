@@ -5,7 +5,7 @@ about:
  template: jolla
  links:
    - text: Resume
-     href: "./images/SarahCulhaneResume.pdf"
+     href: ".doc/images/SarahCulhaneResume.pdf"
 ---
 
 To check out my current resume, please click the link below!
